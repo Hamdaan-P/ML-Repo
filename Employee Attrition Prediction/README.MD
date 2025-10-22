@@ -42,8 +42,9 @@ You need **Python 3.8+** installed along with the libraries listed in `requireme
 ### Steps
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPO_URL]
-    cd [YOUR_REPO_NAME]
+    git clone https://github.com/Hamdaan-P/ML-Repo.git
+    cd ML-Repo
+
     ```
 2.  **Create and Activate Virtual Environment (Recommended):**
     ```bash
@@ -58,4 +59,5 @@ You need **Python 3.8+** installed along with the libraries listed in `requireme
     ```bash
     jupyter notebook
     ```
+
 5.  Open `Employee_Attrition_Prediction_Project.ipynb` and run all cells sequentially.
