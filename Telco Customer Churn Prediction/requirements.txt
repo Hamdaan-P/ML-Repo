@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Recommendation: Use specific version numbers (e.g., pandas==2.2.0)
+# after you have verified your project works correctly, to ensure
+# reproducibility on any machine.
