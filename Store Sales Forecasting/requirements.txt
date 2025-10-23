@@ -1,0 +1,16 @@
+# Python environment dependencies for Store Sales Profit Forecasting project
+# Generated based on the code in Store_Sales_Forecasting.ipynb
+
+# Core Data Manipulation and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Machine Learning and Preprocessing
+scikit-learn>=1.3.0
+
+# Jupyter Notebook (if running in a notebook environment)
+ipykernel>=6.0.0
