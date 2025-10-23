@@ -19,4 +19,17 @@ The goal is to demonstrate a complete, structured data science workflow, from in
 3.  **Model Training:** Trained a Logistic Regression classifier on the preprocessed data.
 4.  **Evaluation:** Evaluated the model using a Confusion Matrix, Classification Report, ROC Curve, and ROC AUC Score.
 
+
 ## 📂 Project Structure
+
+. ├── Breast_Cancer_Diagnosis_Prediction.ipynb (The main analysis notebook) ├── data.csv (The dataset used for training and testing) ├── README.md (This file) └── requirements.txt (List of necessary Python libraries)
+
+
+## 🛠️ Prerequisites
+
+To run this notebook, you will need a Python environment with the following libraries installed.
+
+You can set up the environment using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
