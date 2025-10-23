@@ -46,7 +46,7 @@ You need the following files in your project directory:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your_repo_link]
+    git clone https://github.com/Hamdaan-P/ML-Repo.git
     cd us-health-insurance-prediction
     ```
 2.  **Create a virtual environment (Recommended):**
@@ -62,4 +62,5 @@ You need the following files in your project directory:
     ```bash
     jupyter notebook
     ```
+
 The notebook will perform the full EDA, training, evaluation, and save the final trained model as `insurance_charge_predictor_rf.pkl`.
