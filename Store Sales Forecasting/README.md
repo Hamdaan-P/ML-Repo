@@ -50,7 +50,7 @@ The model achieved a strong performance, explaining **81.6%** of the variance in
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Store-Sales-Profit-Forecasting.git](https://github.com/YourUsername/Store-Sales-Profit-Forecasting.git)
+    git clone [https://github.com/Hamdaan-P/ML-Repo.git]
     cd Store-Sales-Profit-Forecasting
     ```
 2.  **Create Environment & Install Dependencies:**
@@ -59,4 +59,5 @@ The model achieved a strong performance, explaining **81.6%** of the variance in
     pip install -r requirements.txt
     ```
 3.  **Execute the Notebook:**
+
     Open `Store_Sales_Forecasting.ipynb` in Jupyter Lab or VS Code and run all cells sequentially.
