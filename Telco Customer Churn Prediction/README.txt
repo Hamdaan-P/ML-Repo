@@ -1,3 +1,7 @@
+[![Kaggle Dataset](https://img.shields.io/badge/kaggle-dataset-brightgreen?logo=kaggle)](https://www.kaggle.com/)
+[![Stars](https://img.shields.io/github/stars/Hamdaan-P/ML-Repo?style=social)](https://github.com/Hamdaan-P/ML-Repo/stargazers)
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue?logo=python)](https://www.python.org/)
+[![Downloads](https://img.shields.io/github/downloads/Hamdaan-P/ML-Repo/total.svg)](https://github.com/Hamdaan-P/ML-Repo)
 # 📉 Telco Customer Churn Prediction (Classification Project)
 
 ## Project Status: Complete
@@ -30,5 +34,6 @@ This project focuses on building a robust Machine Learning model to predict cust
 | **ROC-AUC Score** | **0.8315** | Indicates strong discriminatory power between churners and non-churners. |
 | **Churn Recall (Sensitivity)** | **0.72** | The model correctly identifies 72% of all actual customers who churn. Crucial for retention efforts. |
 | **Accuracy** | 0.76 | Overall classification accuracy. |
+
 
 ---
