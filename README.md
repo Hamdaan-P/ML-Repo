@@ -80,4 +80,10 @@ Other: Exploratory Data Analysis, Model Evaluation, Feature Engineering
 
 📧 Reach out directly for interviews, project discussions, or to request additional project details.
 
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+
 🗂️ Request tailored solutions—open to creating custom analyses or dashboards for your business needs.
