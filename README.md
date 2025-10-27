@@ -1,3 +1,17 @@
+<!-- Add to your project README.md, right at the top! -->
+
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue?logo=python)](https://www.python.org/)
+[![Power BI](https://img.shields.io/badge/power--bi-dashboard-yellow?logo=powerbi)]
+[![Jupyter](https://img.shields.io/badge/jupyter-notebooks-orange?logo=jupyter)]
+[![SQL](https://img.shields.io/badge/sql-database-blue?logo=sqlite)]
+[![Kaggle Dataset](https://img.shields.io/badge/kaggle-dataset-brightgreen?logo=kaggle)](https://www.kaggle.com/)
+[![Stars](https://img.shields.io/github/stars/Hamdaan-P/ML-Repo?style=social)](https://github.com/Hamdaan-P/ML-Repo/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/Hamdaan-P/ML-Repo/total.svg)](https://github.com/Hamdaan-P/ML-Repo)
+
+
+
+
+
 📋 Repository Overview
 Welcome to ML-Repo! This repository showcases a comprehensive collection of 5 end-to-end machine learning projects demonstrating proficiency in data science, predictive modeling, and business analytics. Each project is designed following industry best practices, providing complete data pipelines from exploration to deployment-ready models.
 
