@@ -1,7 +1,6 @@
 # Heart Disease Prediction — ZaryahPlus Internship Project
 **Author:** Hamdaan
-**Track:** Data Science
-**Assigned by:** Omar Ahmed | ZaryahPlus Engineering | June 2026
+
 
 ---
 
@@ -50,8 +49,8 @@ zaryahplus-internship/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/zaryahplus-internship.git
-cd zaryahplus-internship
+git clone https://github.com/Hamdaan-P//ML-Repo/Heart_Disease_UCI_Classifier.git
+cd ML-Repo
 ```
 
 ### 2. Install required libraries
@@ -74,7 +73,6 @@ python part_b_eda.py
 python part_c_ml.py
 ```
 
-All charts will be saved automatically inside the `charts/` folder.
 
 ---
 
